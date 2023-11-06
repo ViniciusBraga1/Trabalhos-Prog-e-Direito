@@ -1,0 +1,53 @@
+Um banco de dados é uma coleção organizada de informações, como dados estruturados ou não, armazenados de forma eficiente para facilitar a recuperação, manipulação e gerenciamento dessas informações. Ele serve como um repositório centralizado onde os dados podem ser armazenados, consultados, atualizados e removidos conforme necessário.
+
+Um algoritmo é um conjunto de instruções passo a passo que define como realizar uma tarefa ou resolver um problema específico. Ele é usado em programação e ciência da computação para automatizar processos e guiar computadores na execução de ações complexas.
+
+
+Um sistema de arquivos é uma estrutura organizacional usada por um sistema operacional para armazenar, nomear, organizar e acessar arquivos em dispositivos de armazenamento, como discos rígidos e unidades flash. Ele define como os dados são armazenados, recuperados e gerenciados, permitindo que os usuários organizem e acessem seus arquivos de maneira eficiente.
+
+Uma variável é um nome associado a um valor ou dados em programação. Ela permite armazenar e manipular informações que podem ser usadas ou modificadas ao longo da execução de um programa. As variáveis são usadas para armazenar números, textos, objetos e outros tipos de dados, facilitando a interação e o processamento de informações em um programa.
+
+A neutralidade da rede é o princípio de tratar todo o tráfego de dados na internet de forma igual, sem discriminar ou priorizar determinados tipos de conteúdo, serviços ou sites. Isso significa que os provedores de serviços de internet não devem bloquear, diminuir a velocidade ou privilegiar o acesso a certos dados em detrimento de outros. Esse princípio busca manter a internet aberta e acessível a todos, independentemente do conteúdo que estão acessando.
+
+LGPD e Data Centers
+
+Letra A)  Um datacenter corresponde a um local físico que armazena máquinas de computação e seus equipamentos de hardware relacionados. Ele contém a infraestrutura de computação que os sistemas de TI exigem, como servidores, unidades de armazenamento de dados e equipamentos de rede. Sua relação com a LGPD no Brasil ( Lei Geral de Proteção de Dados) é que a LGPD tem responsabilidades sobre a proteção dos dados, tanto de quem está no Brasil tanto de quem não está no Brasil, desde que o dados sejam brasileiros. Nesse sentido, a LGPD estabelece, ainda, que não importa se a sede de uma organização ou o seu Data Center estão localizados no Brasil ou no exterior, ou ainda se os dados são tratados no meio físico ou nos digitais: todos estão sujeitos à regulação. Referências utilizadas : LGPD para Data Centers: impactos e sanções sobre o tráfego de dados (odatacolocation.com) // O que é um datacenter? – Explicação sobre datacenter na nuvem – AWS (amazon.com) 
+
+Letra B) Formato de arquivo especifica como os dados são armazenados para um aplicativo específicos. Os formatos de arquivo proprietários representam a privatização de memória digital, já os arquivos salvos em formatos abertos são arquivos que seguem um padrões abertos, cujas especificações são publicadas e podem ser conhecidas por todos.
+•	Exemplos de formatos proprietários :
+•	 DOC - Microsoft Word Document.
+•	DWG - AutoCad Drawing.
+•	MP3 - MPEG Audio Layer 3.
+
+Exemplos de formatos abertos :
+•	CSV (Comma-Separated Values0. ...
+•	SVG (Scalable Vector Graphics) ...
+•	PDF (Portable Document Format)
+
+Referências utilizadas : Mais informações sobre formatos de arquivo - Suporte da Microsoft // Formatos abertos e formatos proprietários: como funciona e como é constituído o arquivo IFC - BibLus (accasoftware.com)
+
+
+Notícia : “mpf investiga se algoritmo do inss nega aposentadoria sem análise de mérito” 
+
+A investigação se iniciou a partir da denúncia de um cidadão, o qual apontou irregularidades. O sistema estaria negando requerimento de benefícios previdenciários e assistenciais, sem uma análise adequada.
+Entretanto, o INSS afirma que a automatização não alterou o percentual de benefício negados, enquanto o procurador da República Angelo Giardini de Oliveira, que assina a peça, argumenta haver necessidade de obter mais informações sobre sistema informatizado e seu regular funcionamento.
+
+Esse sistema foi implementado para agilizar as respostas dadas aos beneficiários, para, dessa maneira, diminuir as filas.
+
+Referências utilizadas : https://politicalivre.com.br/2023/03/mpf-investiga-se-algoritmo-do-inss-nega-aposentadorias-sem-analise-de-merito/#gsc.tab=0 
+https://www.em.com.br/app/noticia/economia/2023/03/06/internas_economia,1465264/aposentadoria-mpf-mg-investiga-se-inss-negou-pedido-de-forma-automatizada.shtml
+
+Pergunta : Análise de crédito pode usar algorítmo ? Negativa de crédito precisa ser justificada ? 
+
+Sim, algorítmos são frequentemente utilizados para análise de crédito, usando dados financeiros e informações pessoais do solicitante com o objetivo de afirmar se a pessoa possui condiçoes de cumprir com suas obrigações financeiras. O uso de algorítimos nesse processo deixa-o mais seguro, diminuindo o risco de erros e fraudes no processo de análise de crédito.
+Além disso, é importante abordar que mesmo com a possibilidade de recusar o pedido de crédito, as instituiçoes de crédito tem o dever de informar o motivo da recusa do pedido, segundo o Código de Defesa do Consumidor.
+
+Referências utilizadas : https://www.jusbrasil.com.br/jurisprudencia/busca?q=negativa+de+cr%C3%A9dito+sem+esclarecer+a+justificativa
+https://creditsbrasil.com.br/blog/deep-learning-na-analise-de-credito/#:~:text=A%20utiliza%C3%A7%C3%A3o%20de%20algoritmos%20de,processo%20de%20an%C3%A1lise%20de%20cr%C3%A9dito.
+
+
+Rede Neural Artificial : É um método de inteligência artificial inspirada no funcionamento do cérebro humano. Ela é composta por um conjunto de neurônios artificiais, interconectados por meio de conexões ponderadas, tem o objetivo de transmitir informações entre os neurônios.
+ A rede neural cria um sistema adaptativo que os computadores usam para aprender com os erros e se aprimorar continuamente. As redes neurais artificiais tentam solucionar problemas complicados, como resumir documentos ou reconhecer rostos com grande precisão. Uma utilização bem conhecida desse método é o reconhecimento de voz. 
+
+Referências Utilizadas : https://aws.amazon.com/pt/what-is/neural-network/#:~:text=Uma%20rede%20neural%20%C3%A9%20um,camadas%2C%20semelhante%20ao%20c%C3%A9rebro%20humano.
+https://aws.amazon.com/pt/what-is/neural-network/
